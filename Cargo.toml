@@ -1,0 +1,10 @@
+[package]
+name = "p2p"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+iroh = "0.90.0"
+iroh-blobs = "0.91.0"
+tokio = "1.46.1"
